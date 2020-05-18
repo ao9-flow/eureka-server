@@ -1,4 +1,4 @@
-package io.ao9.flow.api.discoveryservice.security;
+package io.ao9.flow.api.eurekaserver.security;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

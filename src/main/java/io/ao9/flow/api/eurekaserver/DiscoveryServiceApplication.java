@@ -1,4 +1,4 @@
-package io.ao9.flow.api.discoveryservice;
+package io.ao9.flow.api.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
